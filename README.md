@@ -3,7 +3,7 @@
 Materiały z zajęć Analiza zależności prowadzonych na Wydziale Matematyki i Nauk Informacyjnych PW. Wszystkie materiały można znaleźć również na stronie [dr Krzysztofa Rudasia](https://pages.mini.pw.edu.pl/~rudask/index.php?page=AZ).
 
 ## Rozpiska terminów i tematów zajęć
-|Lp.| Data | środa 16:15|
+|Lp.| Data | środa 18:00 |
 | ------------- | ------------- | ------------- |
 | 1. | 25-02-2025 | Test permutacyjny, rozkład spektralny i SVD |
 | 2. | 4-03-2025 | Metoda MNK |
